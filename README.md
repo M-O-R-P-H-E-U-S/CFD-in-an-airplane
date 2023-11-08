@@ -17,9 +17,6 @@
 
 ![Turbulent_Kinetic_Energy](https://github.com/M-O-R-P-H-E-U-S/CFD-in-an-airplane/blob/main/Turbulent_Kinetic_Energy.jpeg) 
 
-
-![Absolute_pressure](https://github.com/M-O-R-P-H-E-U-S/CFD-in-an-airplane/blob/main/Absolute_pressure.jpeg) 
-
 ![Static_Pressure](https://github.com/M-O-R-P-H-E-U-S/CFD-in-an-airplane/blob/main/Static_Pressure.jpeg) 
 
 ![Total_Pressure](https://github.com/M-O-R-P-H-E-U-S/CFD-in-an-airplane/blob/main/Total_Pressure.jpeg) 
